@@ -1,0 +1,14 @@
+javascrip 
+ input = document.getElementById("el id del elemento del formulario");
+ value = input.value;
+ desde html
+ <input id = "el id del formulario " type ="tipo de elemento" />
+---------------
+-boton del formulario 
+<button type = "button" onclick = "funcion definida en javascrip" > 
+   texto del boton  
+</button>
+-----------------
+modificar elemnetos de html
+ input = document.getElementById("el id del elemento");
+input.innerText = <valor que aparecera en la pagina>
